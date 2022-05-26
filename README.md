@@ -2,7 +2,7 @@
 Quwash Obwjects
 
 <h4>-Requires Joaat Conversion-</h4>
-```
+```cpp
 int invalidObjects[535] = {
     2087304222,
     1193759130,
