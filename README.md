@@ -1,7 +1,6 @@
 # GTAV-Invalid-Objects
 Quwash Obwjects
 
-<h4>-Requires Joaat Conversion-</h4>
 
 ```cpp
 int invalidObjects[535] = {
