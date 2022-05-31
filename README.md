@@ -539,7 +539,7 @@ int invalidObjects[535] = {
     1446045988,
     1609878359,
     944662010
-}
+};
 
 ```
 <p>Note: Some objects may be obselete</p>
